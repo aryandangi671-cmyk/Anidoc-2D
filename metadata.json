@@ -1,0 +1,6 @@
+{
+  "name": "anidoc2D",
+  "description": "Official website for AniDoc 2D by Aryan Dangi — Explore deep-dive animated documentaries on History, Science, Technology, Mysteries, and Education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
